@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class SubscriptionAccount {
+public class SubscriptionAccount extends BankAccount {
+
+    int numOSubscription;
 }
